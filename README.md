@@ -28,7 +28,6 @@ I’m an aspiring computer science engineer specializing in AI and ML. I’m pas
 </p>
 
 
-### Badges
 
 <h4>My GitHub Stats</h4>
 <a href="http://www.github.com/keshh22"><img src="https://github-readme-stats.vercel.app/api?username=keshh22&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&hide_border=true" alt="keshh22's GitHub stats" /></a>
