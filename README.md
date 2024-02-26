@@ -29,7 +29,7 @@ I’m an aspiring computer science engineer specializing in AI and ML. I’m pas
 
 
 
-<h4>My GitHub Stats</h4>
+<h3 align="left">My GitHub stats:</h3>
 <a href="http://www.github.com/keshh22"><img src="https://github-readme-stats.vercel.app/api?username=keshh22&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&hide_border=true" alt="keshh22's GitHub stats" /></a>
 
 <a href="http://www.github.com/keshh22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=keshh22&stroke=70a5fd&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakNum=bf91f3&currStreakLabel=bf91f3&sideNums=70a5fd&sideLabels=70a5fd&dates=38bdae&hide_border=true" alt="Github streak stats"/></a>
