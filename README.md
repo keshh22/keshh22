@@ -2,7 +2,7 @@
 ## An avid research and machine learning enthusiast..
 I’m an aspiring computer science engineer specializing in AI and ML. I’m passionate about creating innovative solutions that can improve the world using the power of data and intelligence.  I have a strong background in programming, mathematics, and statistics, and I have experience in working with various tools and frameworks for AI and ML, such as TensorFlow, PyTorch, Scikit-learn, Keras, etc. I have also completed several online courses and projects related to AI and ML.  I’m always eager to learn new skills and technologies, and I’m open to new challenges and opportunities.
 
-* 🌍  I'm based in Bangalore
+* 🌍  I'm based in Bangalore, India.
 * ✉️  You can reach me at [keshavsairam1234@gmail.com](mailto:keshavsairam1234@gmail.com)
 * 🧠  I'm currently learning Deep Learning and Natural Language processing
 * 🤝  I'm open to collaborating on interesting projects based on BCI and Exploratory Data Analysis
