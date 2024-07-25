@@ -4,7 +4,7 @@ I’m an aspiring computer science engineer specializing in AI and ML. I’m pas
 
 * 🌍  I'm based in Bangalore, India.
 * ✉️  You can reach me at [keshavsairam1234@gmail.com](mailto:keshavsairam1234@gmail.com)
-* 🧠  I'm currently learning Deep Learning and Natural Language processing
+* 🧠  I'm currently learning Deep Learning, Exploratory Data Analysis and Natural Language Processing
 * 🤝  I'm open to collaborating on interesting projects based on BCI and Exploratory Data Analysis
 * ⚡ Fun fact: I watch and play a LOT of football
 
